@@ -1,0 +1,11 @@
+Day 4 java
+
+1) String and their property 
+
+2) object class : method that can override 
+
+3) abstaction: abstrat method and concearate 
+
+
+
+hashcode : give the address of object

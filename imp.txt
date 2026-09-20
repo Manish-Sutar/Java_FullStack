@@ -1,0 +1,7 @@
+jagged array 
+:
+ its not have fixed types of columns and rows
+
+int arr4[][]=new int[3][];
+arr4[0]=new int[3]
+arr4[1]=new int[5]
